@@ -1,4 +1,4 @@
 #example-dev.yml
-my-config:
-  name: devName
-  type: dev
+test:
+  str: test-str
+  
