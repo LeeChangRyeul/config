@@ -1,0 +1,3 @@
+my-config:
+  name: prodName
+  type: prod
