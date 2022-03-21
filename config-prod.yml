@@ -1,3 +1,2 @@
-my-config:
-  name: prodName
-  type: prod
+test:
+  str: prod-str
